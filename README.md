@@ -12,9 +12,9 @@ coverY: -160
 
 ***
 
-* [Chapter 1 Hello C#, Welcome .NET!](fsl-awl/)
-* [Chapter 2 Speaking C#](fsl-dwm/)
-* [Chapter 3 Controlling Flow, Converting Types, and Handling Exceptions](fsl-swm/)
+* [Chapter 1 Hello C#, Welcome .NET!](dsth-bndy/fsl-awl/)
+* [Chapter 2 Speaking C#](dsth-bndy/fsl-dwm/)
+* [Chapter 3 Controlling Flow, Converting Types, and Handling Exceptions](dsth-bndy/fsl-swm/)
 * Chapter 4 Writing, Debugging, and Testing Functions
 * Chapter 5 Building Your Own Types with Object-Oriented Programming
 * Chapter 6 Implementing Interfaces and Inheriting Classes

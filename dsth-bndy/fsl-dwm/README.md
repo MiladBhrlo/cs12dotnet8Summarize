@@ -21,6 +21,8 @@ layout:
 
 ***
 
+این فصل موضوعات زیر را پوشش می دهد:
+
 * [معرفی #C](marfy-c.md)&#x20;
 * [درک گرامر و واژگان #C ](drk-gramr-w-wazhgan-c.md)
 * [کار با متغیر ها](kar-ba-mtghyrha.md)

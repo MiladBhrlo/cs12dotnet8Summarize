@@ -21,6 +21,8 @@ layout:
 
 ***
 
+این فصل موضوعات زیر را پوشش می دهد:
+
 * [کار بر روی متغیر ها](kar-br-rwy-mtghyrha.md)
 * [درک عبارات شرطی](drk-abarat-shrty.md)
 * [درک عبارات تکرار(حلقه ها)](drk-abarat-tkrar-hlqh-ha.md)
