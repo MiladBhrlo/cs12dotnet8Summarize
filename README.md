@@ -2,15 +2,17 @@
 description: >-
   خلاصه کتاب "C# 12 and .NET 8 - Modern Cross-Platform Development Fundamentals"
   ویرایش هشتم
+cover: .gitbook/assets/.NET8.png
+coverY: -160
 ---
 
 # 👋 C# 12 and .NET 8 - Modern Cross-Platform Development Fundamentals, Eighth Edition
 
 ## سرفصل ها:
 
-* Chapter 1 Hello C#, Welcome .NET!
-* Chapter 2 Speaking C#
-* Chapter 3 Controlling Flow, Converting Types, and Handling Exceptions
+* [Chapter 1 Hello C#, Welcome .NET!](fsl-awl/)
+* [Chapter 2 Speaking C#](fsl-dwm/)
+* [Chapter 3 Controlling Flow, Converting Types, and Handling Exceptions](fsl-swm/)
 * Chapter 4 Writing, Debugging, and Testing Functions
 * Chapter 5 Building Your Own Types with Object-Oriented Programming
 * Chapter 6 Implementing Interfaces and Inheriting Classes
