@@ -10,6 +10,8 @@ coverY: -160
 
 ## سرفصل ها:
 
+***
+
 * [Chapter 1 Hello C#, Welcome .NET!](fsl-awl/)
 * [Chapter 2 Speaking C#](fsl-dwm/)
 * [Chapter 3 Controlling Flow, Converting Types, and Handling Exceptions](fsl-swm/)
